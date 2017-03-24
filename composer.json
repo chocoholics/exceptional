@@ -1,0 +1,19 @@
+{
+    "name": "chocoholics/exceptional",
+    "description": "A simple way to handle exceptions in Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Obura Tongoi",
+            "email": "obura@tongoi.com",
+            "homepage": "https://artisan.pw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chocoholics\\Exceptional\\": "src/"
+        }
+    }
+}
