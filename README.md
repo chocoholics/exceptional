@@ -1,5 +1,5 @@
 ## Exceptional
-This is an elegant way to handle exceptions in Laravel apps
+This is an elegant way to handle exceptions in Laravel apps.
 
 ## Security Vulnerabilities
 
